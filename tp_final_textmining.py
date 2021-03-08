@@ -6,7 +6,8 @@ Este modelo se basa en realizar una Extrative Summarization el cual su foco est�
 Este método pesa la importancia de las partes de la sentencia y usa las más relevantes para realizar un sumario
 Input article → split into sentences → remove stop words → build a similarity matrix → generate rank based on matrix → pick top N sentences for summary.
 
-@author: Franco Vega - Sebastian Calcagno 
+@author: Franco Vega
+CREDITS TO https://medium.com/analytics-vidhya/text-summarization-in-python-using-extractive-method-including-end-to-end-implementation-2688b3fd1c8c
 """
 import pandas as pd
 import re
