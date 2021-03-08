@@ -1,7 +1,7 @@
 # Text summarizing
 
 ## What was about?
-The final project for the subject "Text Mining" for the Master at Austral University
+Summarazing texts for a Colombian Company
 
 ## My experience through this
 That was this my first project doing NPL, I know this project is only the basic but even tough I dont have huge difficulties doing it
